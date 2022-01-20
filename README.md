@@ -44,9 +44,9 @@
 
 📫 How to reach me: ...
 -
-<a href="https://www.linkedin.com/in/yonatan-manuel-schuster/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"  /></a>
+<a href="https://www.linkedin.com/in/yonatan-manuel-schuster/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"  /></a>           <a href="mailto:yonatanmsch@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
 
-📨 yonatananmsch@gmail.com
+
 
 
 
