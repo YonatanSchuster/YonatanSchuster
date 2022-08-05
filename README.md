@@ -39,9 +39,9 @@
   
 💬 About me ...
 -
-- 3rd year Computer Science student 
+- Computer Science student graduate 
 - Ambitious, auto-didact, hard-worker, team player.
-- Looking for a software engineer/devOps/SRE positions
+- Looking for a software engineer/ data engineer positions
 
 📫 How to reach me: ...
 -
