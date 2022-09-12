@@ -39,7 +39,7 @@
   
 💬 About me ...
 -
-- Computer Science student graduate 
+- Computer Science graduate 
 - Ambitious, auto-didact, hard-worker, team player.
 - Looking for a software engineer/ data engineer positions
 
