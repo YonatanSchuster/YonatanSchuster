@@ -50,7 +50,7 @@
 
 
 
-
+<a href="https://app.daily.dev/yonatan_schuster"><img src="https://api.daily.dev/devcards/d28f11468a7940ffad208ef60ea6adb1.png?r=1bh" width="400" alt="yonatan schuster's Dev Card"/></a>
 
 
 
