@@ -40,9 +40,9 @@
   
 💬 About me ...
 -
-- Computer Science graduate 
+- 1 Year experiences as a JavaScript developer at Adoric
 - Ambitious, auto-didact, hard-worker, team player.
-- Looking for a software engineer/ data engineer positions
+
 
 📫 How to reach me: ...
 -
