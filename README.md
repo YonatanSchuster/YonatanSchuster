@@ -22,25 +22,22 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 - Also use:
-
+  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🔭 I’m currently working on ...
- -
-  Software development 
-  
-🌱 I’m currently learning ...
-- 
-  Full Stack development 
+
   
 💬 About me ...
 -
-- 1 Year experiences as a JavaScript developer at Adoric
+- 1 Year experiences as a JavaScript developer | customer success engineer  at Adoric
 - Ambitious, auto-didact, hard-worker, team player.
 
 
@@ -49,7 +46,7 @@
 <a href="https://www.linkedin.com/in/yonatan-manuel-schuster/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"  /></a>           <a href="mailto:yonatanmsch@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
 
 
-
+📚 My dev card ...
 <a href="https://app.daily.dev/yonatan_schuster"><img src="https://api.daily.dev/devcards/d28f11468a7940ffad208ef60ea6adb1.png?r=1bh" width="400" alt="yonatan schuster's Dev Card"/></a>
 
 
